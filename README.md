@@ -1,4 +1,4 @@
-# cognitiveaccoutmaanger
+# cognitiveaccoutmanager
 
 Cognitive Account Manager is a product design to help  Infrastructure service delivery . What if you can know all that you want to know about your IT infrastructure 
 without joining a single meeting ? .  Cognitive Account Manager does the same . A platform which captures all the delivery information and expose it 
